@@ -10,7 +10,7 @@ npm install @codewell/distance
 ```JavaScript
 import distance from '@codewell/distance';
 
-const distance({x: 1, y: 1}, {x: 4, y: 5}); // => 5
+distance({x: 1, y: 1}, {x: 4, y: 5}); // => 5
 ```
 
 
